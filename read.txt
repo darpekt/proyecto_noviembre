@@ -1,0 +1,5 @@
+//archivo para lectura de data set 
+<INICIO>
+1. Leer datos del archivo asegurados.txt
+2. Leer datos del archivo afiliados.txt
+<FIN>
