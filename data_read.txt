@@ -2,4 +2,5 @@
 <INICIO>
 1. Leer datos del archivo asegurados.txt
 2. Leer datos del archivo afiliados.txt
+3. Leer archivos de clientes asegurados.txt
 <FIN>
